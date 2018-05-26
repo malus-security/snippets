@@ -1,0 +1,5 @@
+# Path to Jonathan Levin's jtool
+JTOOL = /Users/razvan/Projects/ios-tools/jtool/jtool
+
+# Certificate ID. Extract using `security find-identity` command.
+CERT_ID = 1325E3602DF5565D296EA6D25DB58E97C54E7AAF
